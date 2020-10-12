@@ -11,6 +11,6 @@
                                value="1">
                         <button class="btn btn-sm btn-outline-success rounded-0">+</button>
                     </div>
-                    <button class="btn btn-sm btn-outline-primary">Sepete Ekle</button>   
+                    <button class="btn btn-sm btn-outline-primary">Sepete Ekle</button>     
                 </div>
-</template>
+</template> 
